@@ -210,7 +210,7 @@ namespace Systems
                 var upgrade = business.Config.Upgrades[i];
                 ui.UpgradeButtonNameTexts[i].text = upgrade.Name;
                 ui.UpgradeButtonIncomeTexts[i].text =
-                    $"Income: +{upgrade.Multiplier * 100:F0}%";
+                    $"Доход: +{upgrade.Multiplier * 100:F0}%";
 
                 if (business.UpgradesPurchased[i])
                 {

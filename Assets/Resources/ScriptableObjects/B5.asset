@@ -16,9 +16,9 @@ MonoBehaviour:
   BaseCost: 5000
   BaseIncome: 5000
   Upgrades:
-  - Name: 1
+  - Name: "\u0414\u043E\u0441\u0442\u0430\u0432\u043A\u0430"
     Price: 100000
     Multiplier: 200
-  - Name: 2
+  - Name: "\u041B\u0438\u0444\u0442\u0438\u0449\u0435"
     Price: 500000
     Multiplier: 400

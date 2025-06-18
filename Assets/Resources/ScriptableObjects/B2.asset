@@ -16,9 +16,9 @@ MonoBehaviour:
   BaseCost: 40
   BaseIncome: 40
   Upgrades:
-  - Name: 1
+  - Name: "3D \u041F\u0440\u0438\u043D\u0442\u0435\u0440"
     Price: 1200
     Multiplier: 1
-  - Name: 2
+  - Name: "\u0417\u043E\u043B\u043E\u0442\u043E"
     Price: 4000
     Multiplier: 2
